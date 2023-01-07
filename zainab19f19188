@@ -1,0 +1,4 @@
+calss  bussinseteam {
+int salespeople;
+double sales in months,sales in year,sum;
+}
