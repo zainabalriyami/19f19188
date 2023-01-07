@@ -1,4 +1,5 @@
 calss  bussinseteam {
 int salespeople;
-double sales in months,sales in year,sum;
+double sales in months,sales in year,avg;
 }
+avg=sales in months+sales in year/2
