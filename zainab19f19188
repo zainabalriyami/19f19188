@@ -2,3 +2,4 @@ calss  bussinseteam {
 int salespeople;
 double sales in months,sales in year,sum;
 }
+ sum=sales in months+sales in year
